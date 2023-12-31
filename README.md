@@ -17,20 +17,24 @@ Here are some ideas to get you started:
 
 ### Hi there! 👋
 
-My name is Trần Văn Đan Trường, but you can call me Harvey. I am a software engineer with a focus on backend development. Currently, I work at NAVER VIETNAM, where I contribute to building robust and scalable applications.
+- My name is Trần Văn Đan Trường, but you can call me Harvey. I am a software engineer with a focus on backend development. Currently, I work at NAVER VIETNAM, where I contribute to building robust and scalable applications.
+- As a highly motivated and results-driven Java Backend Developer, my objective is to leverage my experience, skills, and knowledge to create robust and efficient backend systems that enhance user experiences. 
+- I am dedicated to collaborating with front-end developers, addressing and resolving any bugs or issues, and continuously improving the performance and reliability of applications. By providing innovative solutions, I aim to contribute to the success of the organization and deliver exceptional results in every project.
 
 #### Skills
 
 - Java
 - .NET C#
 - Go
+- Spring
+- Spring boot
 
 #### Experience
 
 - Software Engineer (Backend) at NAVER VIETNAM
     - Developed and maintained backend systems using Java and Go.
     - Collaborated with cross-functional teams to deliver high-quality software solutions.
-    - Implemented performance optimizations to improve system efficiency.
+    - Implemented performance optimizations to improve system efficiency.   
 
 <!-- #### Projects
 
