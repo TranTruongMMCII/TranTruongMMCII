@@ -32,7 +32,7 @@ My name is Trần Văn Đan Trường, but you can call me Harvey. I am a softwa
     - Collaborated with cross-functional teams to deliver high-quality software solutions.
     - Implemented performance optimizations to improve system efficiency.
 
-#### Projects
+<!-- #### Projects
 
 - Project 1: [Project Name](https://github.com/yourusername/project1)
     - Description: Briefly describe the project and your role in it.
@@ -40,7 +40,7 @@ My name is Trần Văn Đan Trường, but you can call me Harvey. I am a softwa
 
 - Project 2: [Project Name](https://github.com/yourusername/project2)
     - Description: Briefly describe the project and your role in it.
-    - Technologies used: List the technologies you used in this project.
+    - Technologies used: List the technologies you used in this project. -->
 
 #### Education
 
@@ -55,7 +55,8 @@ My name is Trần Văn Đan Trường, but you can call me Harvey. I am a softwa
 - Instagram: [TranTruongMMCII](https://www.instagram.com/TranTruongMMCII/)
 - Twitter - X: [TranTruongMMCII](https://twitter.com/TranTruongMMCII)
 - Github: [TranTruongMMCII](https://github.com/TranTruongMMCII)
-- Skype: [truongtlt147](skype:live:truongtlt147?chat)
+- Skype: [live:truongtlt147](https://join.skype.com/invite/xyKvbkUr4dT0)
+
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
 
