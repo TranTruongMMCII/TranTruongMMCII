@@ -44,12 +44,18 @@ My name is Trần Văn Đan Trường, but you can call me Harvey. I am a softwa
 
 #### Education
 
-- Bachelor's Degree in Computer Science, University Name, Year
+- Bachelor's Degree in English Major, The Mekong University, Expected graduation: June 2025
+- Bachelor's Degree in Computer Science, The Saigon International University, 2022
 
 #### Contact
 
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- Email: [truong.tranvandan@gmail.com](mailto:truong.tranvandan@gmail.com)
+- LinkedIn: [TranTruongMMCII](https://www.linkedin.com/in/trantruongmmcii)
+- Facebook: [TranTruongMMCII](https://www.facebook.com/TranTruongMMCII/)
+- Instagram: [TranTruongMMCII](https://www.instagram.com/TranTruongMMCII/)
+- Twitter - X: [TranTruongMMCII](https://twitter.com/TranTruongMMCII)
+- Github: [TranTruongMMCII](https://github.com/TranTruongMMCII)
+- Skype: [truongtlt147](skype:live:truongtlt147?chat)
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
 
