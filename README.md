@@ -47,13 +47,7 @@ My name is Trần Văn Đan Trường, but you can call me Harvey. I am a softwa
 - Bachelor's Degree in English Major, The Mekong University, Expected graduation: June 2025
 - Bachelor's Degree in Computer Science, The Saigon International University, 2022
 
-#### My CV
-<!-- <object data="./TranVanDanTruong-CV-BackEndDeveloper.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./TranVanDanTruong-CV-BackEndDeveloper.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./TranVanDanTruong-CV-BackEndDeveloper.pdf">Download PDF</a>.</p>
-    </embed>
-</object> -->
-[My CV](./TranVanDanTruong-CV-BackEndDeveloper.pdf)
+#### [Curriculum Vitae](./TranVanDanTruong-CV-BackEndDeveloper.pdf)
 
 #### Contact
 
