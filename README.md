@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 | 📜 Certification | 🏢 Issued By | 📅 Validity |
 | --- | --- | --- |
 | 🌐 Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate | Oracle | Dec 2023 - Dec 2025|
+| 🌐 Oracle Cloud Data Management 2023 Certified Foundations Associate | Oracle | Aug 2023 - Aug 2025|
 | 🌐 Oracle Cloud Infrastructure 2023 Certified Architect Professional | Oracle | Aug 2023 - Aug 2025|
 | 🌐 Oracle Cloud Infrastructure 2023 Certified Architect Associate | Oracle | Jul 2023 - Jul 2025|
 | 🌐 Oracle Cloud Infrastructure 2023 Certified Foundations Associate | Oracle | Jul 2023 - Jul 2025 |
