@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 #### 💼 Experience
 
-- **Software Engineer (Backend)**, NAVER VIETNAM, Sep 2023 - now
+- **Software Engineer (Back-end)**, NAVER VIETNAM, Sep 2023 - now
   - 💻 Developed and maintained backend systems using Java and Spring.
   - 🤝 Collaborated with cross-functional teams to deliver high-quality software solutions.
   - ⚡ Implemented performance optimizations to improve system efficiency.
